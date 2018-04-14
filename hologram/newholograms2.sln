@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newholograms2", "newholograms2.csproj", "{43A73CF7-CD80-191F-0745-78434EC2E8DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newholograms2.Editor", "newholograms2.Editor.csproj", "{97FC235B-E42C-597C-F041-BF5E5A62E70C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43A73CF7-CD80-191F-0745-78434EC2E8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A73CF7-CD80-191F-0745-78434EC2E8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A73CF7-CD80-191F-0745-78434EC2E8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A73CF7-CD80-191F-0745-78434EC2E8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97FC235B-E42C-597C-F041-BF5E5A62E70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97FC235B-E42C-597C-F041-BF5E5A62E70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97FC235B-E42C-597C-F041-BF5E5A62E70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97FC235B-E42C-597C-F041-BF5E5A62E70C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
