@@ -8,10 +8,10 @@ Second, human-machine interaction is indispensable to better play the characteri
 
 
 Aiming at the research goal of this project, we have designed the following functions: 
-: (1) design and implement a set of data visualization system based on augmented reality;
-: (2) to support reading data from different platforms, such as PC end, the mobile terminal (such as iOS terminal, etc.); 
-: (3) design an App at the moving end to achieve a two-dimensional chart display of data;
-(4) implement 3D chart synchronization display on Hololens device.
+* (1) design and implement a set of data visualization system based on augmented reality;
+* (2) to support reading data from different platforms, such as PC end, the mobile terminal (such as iOS terminal, etc.); 
+* (3) design an App at the moving end to achieve a two-dimensional chart display of data;
+* (4) implement 3D chart synchronization display on Hololens device.
 (5) the human-computer interaction (including gestures, voice, gaze, etc.) at the Hololens end can be carried out in a multi-angle view, and the data in the chart can be modified.
 (6) the data that is modified at the Hololens side can be updated to PC and mobile terminals synchronously.
 
